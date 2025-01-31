@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/bVy2SjiVQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Platzi\\Net\\Gestor\\WebPracitca\\WebPracitca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.apidescription.client\\7.0.2\\microsoft.extensions.apidescription.client.7.0.2.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\nswag.apidescription.client\\13.18.2\\nswag.apidescription.client.13.18.2.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\nswag.msbuild\\13.18.2\\nswag.msbuild.13.18.2.nupkg.sha512"
+  ],
+  "logs": []
+}

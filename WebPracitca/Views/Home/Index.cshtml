@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Personas";
+}
+
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            <div class="card-title">Lista de personas</div>
+
+            <div class="col-md-9 d-flex justify-content-between pt-3">
+                <div class="col-md-3">
+                    <label for="fechaInicio">Fecha Inicio:</label>
+                    <input type="date" id="fechaInicio" class="form-control form-control-sm filtro-control" data-filter="fechaInicio" />
+                </div>
+
+                <div class="col-md-3">
+                    <label for="fechaFin">Fecha Fin:</label>
+                    <input type="date" id="fechaFin" class="form-control form-control-sm filtro-control" data-filter="fechaFin" />
+                </div>
+                <div class="col-md-3">
+                    <button class="btn btn-primary btn-sm" id="NuevaPersona">Nueva Persona</button>
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="bottom-buffer">
+                <div class="datatable datatable-bordered datatable-head-custom">
+                    <table class="table align-middle table-row-dashed fs-6 gy-5 dataTable no-footer" id="kt_personas">
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<partial name="~/Views/Shared/_ModalRegistro.cshtml" />
+@section Scripts {
+    <script src="~/js/Home/homeIndex.js" asp-append-version="true"></script>
+    @* <script> *@
+    @*     var success = '@TempData["Success"]'; *@
+    @*     var faill = '@TempData["Error"]'; *@
+    @*     if (success !== '') { *@
+    @*         toastr.success(success); *@
+    @*     } *@
+    @*     if (faill !== '') { *@
+    @*         toastr.error(faill); *@
+    @*     } *@
+    @* </script> *@
+}

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDF4652-79B8-4B16-BA30-92DD93E83248}|PruebaApi.csproj|c:\\users\\user\\desktop\\repo\\pruebaapi\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDF4652-79B8-4B16-BA30-92DD93E83248}|PruebaApi.csproj|solutionrelative:controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDF4652-79B8-4B16-BA30-92DD93E83248}|PruebaApi.csproj|c:\\users\\user\\desktop\\repo\\pruebaapi\\services\\ipersonaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDF4652-79B8-4B16-BA30-92DD93E83248}|PruebaApi.csproj|solutionrelative:services\\ipersonaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDF4652-79B8-4B16-BA30-92DD93E83248}|PruebaApi.csproj|c:\\users\\user\\desktop\\repo\\pruebaapi\\services\\personaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDF4652-79B8-4B16-BA30-92DD93E83248}|PruebaApi.csproj|solutionrelative:services\\personaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDF4652-79B8-4B16-BA30-92DD93E83248}|PruebaApi.csproj|c:\\users\\user\\desktop\\repo\\pruebaapi\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDF4652-79B8-4B16-BA30-92DD93E83248}|PruebaApi.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDF4652-79B8-4B16-BA30-92DD93E83248}|PruebaApi.csproj|c:\\users\\user\\desktop\\repo\\pruebaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EDF4652-79B8-4B16-BA30-92DD93E83248}|PruebaApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDF4652-79B8-4B16-BA30-92DD93E83248}|PruebaApi.csproj|c:\\users\\user\\desktop\\repo\\pruebaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDF4652-79B8-4B16-BA30-92DD93E83248}|PruebaApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T03:36:34.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAASwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:05:09.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaServices.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\Services\\PersonaServices.cs",
+              "RelativeDocumentMoniker": "Services\\PersonaServices.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\Services\\PersonaServices.cs",
+              "RelativeToolTip": "Services\\PersonaServices.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAwwNIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:06:56.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPersonaServices.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\Services\\IPersonaServices.cs",
+              "RelativeDocumentMoniker": "Services\\IPersonaServices.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\Services\\IPersonaServices.cs",
+              "RelativeToolTip": "Services\\IPersonaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:03:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAhwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:00:26.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\PruebaApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:43:53.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
